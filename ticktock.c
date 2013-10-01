@@ -1,3 +1,11 @@
+/*
+ * Copyright 2012 
+ *  Steven Maresca <steve@zentific.com>
+ *
+ * This program serves no useful purpose; that was intentional.
+ *
+ */
+
 #include <setjmp.h>
 #include <stdio.h>
 #include <string.h>
