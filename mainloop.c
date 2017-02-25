@@ -16,3 +16,4 @@ int main(int argc, char **argv){
     return 0;
 }
 
+/* see https://en.wikipedia.org/wiki/Resource_acquisition_is_initialization#Clang_and_GCC_.22cleanup.22_extension_for_C */
